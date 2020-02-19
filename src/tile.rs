@@ -5,7 +5,7 @@ pub enum TileState {
     Flagged,
 }
 
-#[derive(Debug, Eq, PartialEq)]
+#[derive(Debug, Eq, PartialEq, Copy, Clone)]
 pub struct Tile {
     pub state: TileState,
     pub has_mine: bool,
