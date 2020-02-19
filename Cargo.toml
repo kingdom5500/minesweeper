@@ -1,0 +1,9 @@
+[package]
+name = "minesweeper"
+version = "0.1.0"
+authors = ["Kingsley McDonald <kingsleymcdonald13@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"
+termion = "1.5.5"
