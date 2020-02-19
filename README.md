@@ -24,3 +24,7 @@ run the following command:
 - d - perform a chord
 - p - pause/unpause
 - q - quit game
+
+## preview
+
+![example play](/images/preview.gif)
