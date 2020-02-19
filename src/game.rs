@@ -1,5 +1,3 @@
-extern crate termion;
-
 use std::io::{stdin, stdout, Stdout, Write};
 use std::time::{Duration, SystemTime};
 use termion::event::Key;

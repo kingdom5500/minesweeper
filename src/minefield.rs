@@ -1,6 +1,3 @@
-extern crate rand;
-extern crate termion;
-
 use rand::seq::IteratorRandom;
 use std::char;
 use std::fmt;
